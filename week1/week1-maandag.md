@@ -1,47 +1,48 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[14/01/2025]`  
+**Studentnaam:** `[Rayan Arssi]`  
+**Groepsnaam:** `[Chill]`
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- Brainstormen hoe ik mijn individuele moodboard ging aanpakken.
+- Ik heb aan mijn individuele moodboard gewerkt met gebruik van elementen uit Pinterest + 2 persona voor de website
+- Daarnaast ben ik begonnen met een pagina (pagina waar we de 4 functionaliteiten kunnen zien) uit het wireframe
 
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+_Instructie (1 item per dag volstaat):_
 
+- Persoonlijk heb ik altijd moeite gehad met een goede moodboard te ontwerpen, vanfdaag heb ik eigenlijk geleerd hoe ik mezelf feedback kun geven over mijn ontwerp.
+  En dankzij mijn auto-feedback heb ik mijn moodboard zelf kunnnen aanpassen.
+- Ik heb dankzij een youtube-link geleerd om een hover effect te gebruiken in figma, dit heb ik om mijn gemaakte paginA toegepast
 
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> **Nieuwe skills:**
+>
+> - Hover effect gebruiken in Figma
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+_Instructie:_
+
+- Ik voel me tevreden hoe ik mijn ideeën kon uitspreken en dat andere groepleden me feedback geven. En ben heel, heel blij dat ik de eerste dag
+  al een nieuwe functionaliteit kan gebruiken.
 
 
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
+> **Algmeeen gevoel:**
+>
+> - **"Tevreden"** :😎:
+> - **"Chill"** :🚶‍♂️:
 
 ---
 
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
