@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[15/01/2025]`  
+**Datum:** `[14/01/2025]`  
 **Studentnaam:** `[Rayan Arssi]`  
 **Groepsnaam:** `[Chill]`
 
@@ -10,13 +10,9 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-- Deze morgen heb ik de 4-methode page beindigd met behulp van Dikra, een andere groepslid. Omdat ik wat moeite had met hoe het layout te maken.
-- Daarnaast ben ik met de 2de, 3de en 4de begonnen met aanpassen van de wireframe want helaas heeft een groepslid veel aanpassingen vergeten.
-  Visuele stickers toe voegen, functionaliteiten (kleuren en typografie) toevoegen voor de stickers te wijzigen, en uitendlijk pagina waar u jouw congrats krijgt da je correct sorry heb gezegd en waar u de link kunt copieren.
-- Op het einde van de dag heb ik met Hamza besloten om zich te informeren over hoe we een chatbot kunnen maken met html, css and javascript.
-  We zijn op verschillende documentatie en tutorials tegengekomen en ene van deze is het best uitgekomen en dit zouden we de volgende dagen proberen.
-- Als laatst heb ik een test-repository gemaakt de groepsleden en ikzelf kunnen beginnen met coderen, omdat we officieel nog geen repository
-  hebben voor ons project. Daarin ben ik een pagina beginnen coderen.
+- Brainstormen hoe ik mijn individuele moodboard ging aanpakken.
+- Ik heb aan mijn individuele moodboard gewerkt met gebruik van elementen uit Pinterest + 2 persona voor de website
+- Daarnaast ben ik begonnen met een pagina (pagina waar we de 4 functionaliteiten kunnen zien) uit het wireframe
 
 ---
 
@@ -24,12 +20,13 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 _Instructie (1 item per dag volstaat):_
 
-- Ik heb geleerd dat we een eigen repository konden maken met github.
-- Ik heb geleerd hoe kunnen we onze eigen chatbot maken met code die uit software komen die we dagelijks gebruiken.
+- Persoonlijk heb ik altijd moeite gehad met een goede moodboard te ontwerpen, vanfdaag heb ik eigenlijk geleerd hoe ik mezelf feedback kun geven over mijn ontwerp.
+  En dankzij mijn auto-feedback heb ik mijn moodboard zelf kunnnen aanpassen.
+- Ik heb dankzij een youtube-link geleerd om een hover effect te gebruiken in figma, dit heb ik om mijn gemaakte paginA toegepast
 
 > **Nieuwe skills:**
 >
-> - Chatbot met HTML, CSS en JS
+> - Hover effect gebruiken in Figma
 
 ---
 
@@ -37,12 +34,14 @@ _Instructie (1 item per dag volstaat):_
 
 _Instructie:_
 
-- Vandaag was een minder goede dag voor mij omdat ik slecht nieuws heb gekregen uit mijn persoonlijk elven, maar toch ben ik blij omdat ik uit mijn triestigheid, mijn doorzettingsvermogen heb gebruikt. Vandaag ben ik blij geworden omdat ik andere groepsleden heeft geholpen en persoonlijk ook veel uitgevoerd en geleerd.
+- Ik voel me tevreden hoe ik mijn ideeën kon uitspreken en dat andere groepleden me feedback geven. En ben heel, heel blij dat ik de eerste dag
+  al een nieuwe functionaliteit kan gebruiken.
+
 
 > **Algmeeen gevoel:**
 >
-> - **"Blij van mezelf"** :😁🙌:
-> - **"Triestig"** :🥲:
+> - **"Tevreden"** :😎:
+> - **"Chill"** :🚶‍♂️:
 
 ---
 
